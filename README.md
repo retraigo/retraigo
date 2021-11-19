@@ -2,8 +2,9 @@
 
 *- He who paints thine world in eternal nothingness*
 
-__**Postulates of NeTT**__
-*That time NeTT felt like a sage*
+### Postulates of NeTT
+
+*- That time NeTT felt like a sage*
 
 * If you have an opinion, share it or keep it to yourself. Don't force it on others.
 
