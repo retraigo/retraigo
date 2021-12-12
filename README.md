@@ -1,4 +1,4 @@
-### Tenebrae Von Dunkelheit
+### Schatten et Caligo
 
 *- He who paints thine world in eternal nothingness*
 
