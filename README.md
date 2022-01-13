@@ -22,4 +22,11 @@
 
 * If someone doesn't like scary stuff, keep scary stuff away from them. Especially NeTT.
 
+### Links
+[Discord](https://discord.gg/A69vvdK)
+[Twitter](https://twitter.com/retraigo)
+[Facebook](https://fb.me/retraigo)
+
+[Here's a nice playlist for you](https://open.spotify.com/playlist/1MMcPhfXHmS4UEhCn44I5u?si=f8a30a167d524c31)
+
 ![Woke NeTT](https://nekooftheabyss.xyz/NeTT/woke.webp)
