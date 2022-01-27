@@ -2,6 +2,8 @@
 
 *- He who paints thine world in eternal nothingness*
 
+Writes weird useless javascript programs and websites.
+
 ### Postulates of NeTT
 
 *- That time NeTT felt like a sage*
