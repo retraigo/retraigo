@@ -1,4 +1,4 @@
-### NeTT, ReTraigo, Pranev, Neko Of The Abyss
+### NeTT, ReTraigo, Neko Of The Abyss
 If you see any of the above names, there's a good possibility of them referring to me.
 
 
