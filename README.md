@@ -22,7 +22,7 @@ Writes weird useless javascript programs and websites.
 
 * If someone starts complaining about everything for no reason, just don't mind them. There is no cure for stupidity.
 
-* If someone doesn't like scary stuff, keep scary stuff away from them. Especially NeTT.
+* If someone doesn't like scary stuff, keep scary stuff away from them. Especially from me.
 
 ### Links
 * [Discord](https://discord.gg/A69vvdK)
