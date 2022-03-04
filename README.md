@@ -1,8 +1,9 @@
-### Schatten et Caligo
+### NeTT, ReTraigo, Pranev, Neko Of The Abyss
+If you see any of the above names, there's a good possibility of them referring to me.
 
-*- He who paints thine world in eternal nothingness*
 
-Writes weird useless javascript programs and websites.
+### He who paints thy world in etnernal nothingness
+Writes weird javascript programs and websites. Makes up cringe monologues and narrations.
 
 ### Postulates of NeTT
 
