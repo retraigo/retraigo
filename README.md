@@ -12,7 +12,7 @@ Writes weird javascript programs and websites. Makes up cringe monologues and na
 Postulates of NeTT have been moved. They can now be found in the [`CODE_OF_CONDUCT`](https://github.com/retraigo/.github/blob/main/CODE_OF_CONDUCT.md) file.
 
 ### Links
-* [Discord](https://discord.gg/A69vvdK)
+* [Discord](https://discord.gg/Ess9VJKYEZ)
 * [Twitter](https://twitter.com/retraigo)
 * [Facebook](https://fb.me/retraigo)
 * [Website](https://nekooftheabyss.xyz/)
