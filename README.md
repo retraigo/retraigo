@@ -26,4 +26,4 @@ Postulates of NeTT have been moved. They can now be found in the [`CODE_OF_CONDU
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=retraigo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight" alt = "Github stats again" height = "170em" />
 </div>
   
-![Woke NeTT](https://nekooftheabyss.xyz/NeTT/woke.webp)
+![Woke NeTT](https://nekooftheabyss.moe/NeTT/woke.webp)
