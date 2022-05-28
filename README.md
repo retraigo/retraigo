@@ -3,7 +3,7 @@ If you see any of the above names, there's a good possibility of them referring 
 
 ![:retraigo](https://count.nekooftheabyss.moe/get/@retraigo-git?theme=gelbooru)
 
-### He who paints thy world in etnernal nothingness
+### He who paints thy world in eternal nothingness
 Writes weird javascript programs and websites. Makes up cringe monologues and narrations.
 
 ### Postulates of NeTT
