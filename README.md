@@ -6,6 +6,8 @@ If you see any of the above names, there's a good possibility of them referring 
 ### He who paints thy world in eternal nothingness
 Writes weird javascript programs and websites. Makes up cringe monologues and narrations.
 
+[Public packages](https://gist.github.com/retraigo/1f6a628b0661fa91f36b47c6d02ff95b)
+
 ### Postulates of NeTT
 
 *- That time NeTT felt like a sage*
