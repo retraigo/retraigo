@@ -19,7 +19,6 @@ Postulates of NeTT have been moved. They can now be found in the [`CODE_OF_CONDU
 * [Twitter](https://twitter.com/retraigo)
 * [Facebook](https://fb.me/retraigo)
 * [Website](https://nekooftheabyss.moe/nett/)
-* [NPM](https://www.npmjs.com/~retraigo)
 
 [Here's a nice playlist for you](https://open.spotify.com/playlist/1MMcPhfXHmS4UEhCn44I5u?si=f8a30a167d524c31)
 
