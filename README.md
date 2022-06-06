@@ -12,7 +12,7 @@ Writes weird javascript programs and websites. Makes up cringe monologues and na
 
 *- That time NeTT felt like a sage*
 
-Postulates of NeTT have been moved. They can now be found in the [`CODE_OF_CONDUCT`](https://github.com/retraigo/.github/blob/main/CODE_OF_CONDUCT.md) file.
+Postulates of NeTT have been moved. They can now be found in the [website](https://nekooftheabyss.moe/postulates).
 
 ### Links
 * [Discord](https://discord.gg/A69vvdK)
