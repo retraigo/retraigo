@@ -6,7 +6,7 @@ If you see any of the above names, there's a good possibility of them referring 
 ### He who paints thy world in eternal nothingness
 Writes weird javascript programs and websites. Makes up cringe monologues and narrations.
 
-### I mostly do not keep public packages here. Check @nekooftheabyss instead. 
+### I mostly do not keep public packages here. Check [@nekooftheabyss](https://github.com/nekooftheabyss) instead. 
 
 ### Postulates of NeTT
 
