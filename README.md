@@ -1,10 +1,7 @@
-### NeTT, ReTraigo, Neko Of The Abyss
-If you see any of the above names, there's a good possibility of them referring to me.
-
 ![:retraigo](https://count.nekooftheabyss.moe/get/@retraigo-git?theme=gelbooru)
 
 ### He who paints thy world in eternal nothingness
-Writes weird javascript programs and websites. Makes up cringe monologues and narrations.
+...and writes weird javascript programs and websites. Also makes up cringe monologues and narrations.
 
 ### Postulates of NeTT
 [website](https://nekooftheabyss.moe/postulates).
