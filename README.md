@@ -1,4 +1,4 @@
-![:retraigo](https://count.nekooftheabyss.moe/get/@retraigo-git/img?theme=gelbooru&a)
+![:retraigo](https://count.nekooftheabyss.moe/get/@retraigo-git/img?theme=gelbooru&b)
 
 ### He who paints thy world in eternal nothingness
 ...and writes weird javascript programs and websites. Also makes up cringe monologues and narrations.
