@@ -10,7 +10,7 @@
 * [Twitter](https://twitter.com/retraigo)
 * [Facebook](https://fb.me/retraigo)
 * [Website](https://nett.moe/)
-* [Postulates](https://nekooftheabyss.moe/postulates)
+* [Postulates](https://gist.github.com/retraigo/df4cac05453bf61207119c0ff2d82513)
 
 [Here's a nice playlist for you](https://open.spotify.com/playlist/1MMcPhfXHmS4UEhCn44I5u?si=f8a30a167d524c31)
 <!--
