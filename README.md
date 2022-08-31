@@ -1,5 +1,5 @@
 <a href="https://count.nekooftheabyss.moe" target="blank">
-    <img src="https://count.nekooftheabyss.moe/get/@retraigo-git/img?theme=moebooru&99" />
+    <img src="https://count.nekooftheabyss.moe/github/retraigo/stars?theme=moebooru" />
 </a>
 
 ### He who paints thy world in eternal nothingness
