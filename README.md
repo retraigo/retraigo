@@ -2,8 +2,8 @@
 (+{}+[])[+[]]+((+[]+[])[+!+![]]+[])[+!+![]+!+![]+!+![]]+(!+![]+[])[+[]]+(!+![]+[])[+[]]
 ```
 
-<a href="https://count.nekooftheabyss.moe" target="blank">
-    <img src="https://count.nekooftheabyss.moe/get/retraigo/img?theme=moebooru" />
+<a href="https://count.nett.moe" target="blank">
+    <img src="https://count.nett.moe/get/retraigo/img?theme=moebooru" />
 </a>
 
 ### He who paints thy world in eternal nothingness
