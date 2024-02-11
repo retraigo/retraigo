@@ -9,6 +9,8 @@
 ### He who paints thy world in eternal nothingness
 ...and writes weird javascript programs and websites. Also makes up cringe monologues and narrations.
 
+I make websites. I write ML stuff for TypeScript (Deno).
+
 ### Links
 * [Discord](https://discord.gg/A69vvdK)
 * [Twitter](https://twitter.com/retraigo)
