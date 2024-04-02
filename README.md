@@ -3,7 +3,7 @@
 ```
 
 <a href="https://count.nett.moe" target="blank">
-    <img src="https://count.nett.moe/get/retraigo/img?theme=moebooru" />
+    <img src="https://count.nett.moe/get/retraigo/img?theme=rule34" />
 </a>
 
 ### He who paints thy world in eternal nothingness
